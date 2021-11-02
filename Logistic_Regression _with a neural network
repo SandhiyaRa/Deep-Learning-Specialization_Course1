@@ -1,0 +1,11 @@
+Building Logistic Regression Model with a basic neural network:
+
+Load Packages
+Overview the Problem Set
+Build the parts of the algorithm
+  Initialize Parameters
+  Forward and Backward Probagation
+  Optimization
+  Merge all functiona into the model
+  
+  
