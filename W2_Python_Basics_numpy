@@ -1,0 +1,15 @@
+Traditional HelloWiorld Program:
+
+test = "Hello World"
+print("test:" + test);
+
+Expected output: test: Hello World
+
+Basic Functions of Numpy:
+
+  sigmoid function, np.exp()
+  Sigmoid gradient
+  Reshaping arrays
+  Normalizing rows
+  Broadcasting and the softmax function
+  Vectorization
